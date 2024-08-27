@@ -1,3 +1,0 @@
-Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
-git add: Mueve los cambios del directorio de trabajo al área del entorno de ensayo.
-git commit -m: Permite mover una o varias ramas a otro repositorio
