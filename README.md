@@ -69,3 +69,6 @@ Parámetro: qwerty
 Parámetro: pentagon
 Parámetro: Hexagon
 ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+
+holaa mi rombre es rossel
