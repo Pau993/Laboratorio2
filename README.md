@@ -64,9 +64,16 @@ La Simple Factory, porque es un patrón de diseño que encapsula la creación de
 
 Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
 
-Sin parámetros
+Sin parámetros 
 Parámetro: qwerty
 Parámetro: pentagon
 Parámetro: Hexagon
 ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+la salida sin parametros nos arroja lo siguiente : Parameter of type RegularShapeType is required. que es el mensaje que sugiere el shape main , para una ejecucion sin paramatros 
+
+la salida con parametro qwerty nos arroja lo siguiente :  "Parameter qwerty is not a valid RegularShapeType", acorde a la excepcion creada
+
+Las siguintes dos salidas sugiere que tanto el pentago como el hezagono se crearon de manera satisfactoria y
+
 
