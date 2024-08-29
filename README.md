@@ -74,6 +74,6 @@ la salida sin parametros nos arroja lo siguiente : Parameter of type RegularShap
 
 la salida con parametro qwerty nos arroja lo siguiente :  "Parameter qwerty is not a valid RegularShapeType", acorde a la excepcion creada
 
-Las siguintes dos salidas sugiere que tanto el pentago como el hezagono se crearon de manera satisfactoria y
+Las siguintes dos salidas sugiere que tanto el pentago como el hexagono se crearon de manera satisfactoria 
 
 
