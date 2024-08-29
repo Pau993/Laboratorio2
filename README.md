@@ -77,3 +77,18 @@ la salida con parametro qwerty nos arroja lo siguiente :  "Parameter qwerty is n
 Las siguintes dos salidas sugiere que tanto el pentago como el hexagono se crearon de manera satisfactoria 
 
 
+
+¿PARA QUE SIRVE GITIGNORE?
+
+El archivo .gitignore en un repositorio Git se utiliza para especificar archivos y directorios que Git debe ignorar. Esto significa que los archivos o directorios listados en .gitignore no serán seguidos por Git ni incluidos en los commits. 
+
+es una herramienta clave en Git para gestionar qué archivos y directorios deben ser ignorados por el sistema de control de versiones.
+
+Paso 1  "CREAMOS UN ARCHIVO GITIGNORE"
+
+touch gitignore
+
+Paso 2 "EDICION"
+dentro del archivo , editamos las restricciones y dependencias o en resumen las reglas que queremos ignorar 
+
+NOTA: Si agregas reglas a .gitignore para archivos que ya están siendo rastreados por Git, esos archivos seguirán siendo rastreados.
